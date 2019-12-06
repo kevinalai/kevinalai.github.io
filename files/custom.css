@@ -25,7 +25,7 @@ a {
 }
 
 a:hover, a:focus {
-    color: #007bcd;
+    color: #004d80;
     text-decoration: none;
 }
 
@@ -97,12 +97,10 @@ a:hover, a:focus {
 
 .list-publications a {
 	font-size: medium;
-	color: #007bcd;
 }
 
 .list-publications a:hover, a:focus {
-    color: #333333;
-    text-decoration: none;
+
 }
 
 .list-news {
@@ -113,8 +111,8 @@ a:hover, a:focus {
 .list-news li {
 	padding-top: 5px;
 	padding-bottom: 5px;
-	padding-left: 64px ;
-  text-indent: -64px ;
+	padding-left: 68px ;
+  text-indent: -68px ;
 }
 
 .list-news h5 {
@@ -123,12 +121,10 @@ a:hover, a:focus {
 
 .list-news a {
 	/*font-size: medium;*/
-	color: #007bcd;
 }
 
 .list-news a:hover, a:focus {
-    color: #333333;
-    text-decoration: none;
+
 }
 
 .img-padded {
